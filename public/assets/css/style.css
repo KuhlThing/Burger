@@ -1,6 +1,7 @@
 body {
- background: red;
-}
+  background-image: url("../img/burgerBg.jpg");
+  background-color: #cccccc;
+ }
 
 li {
   padding: 5px;
